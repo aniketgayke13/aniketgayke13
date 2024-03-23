@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketgayke13
-- 👀 I’m interested in data science and Analytics
-- 🌱 I’m currently learning SQL, Power BI, Machine Learning
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning SQL, Power BI, Machine Learning, NLP, Deep Learning
 - 📫 How to reach me https://www.linkedin.com/in/aniket-gayke/
 
 <!---
